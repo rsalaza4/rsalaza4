@@ -7,7 +7,7 @@
 
 - ✏️ I'm a technical writer in **[Medium.com](https://robertosalazarr.medium.com/)**
 
-- 📫 You can reach me at **rsalaza4@binghamton.edu**
+- 📫 You can reach me at **[rsalaza4@binghamton.edu](mailto:rsalaza4@binghamton.edu)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
