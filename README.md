@@ -5,7 +5,7 @@
 
 - 🔍 I'm interested in **Data Science, Machine Learning, Artificial Intelligence, Operations Research**
 
-- ✏️ I'm a technical writer in [Medium.com](https://robertosalazarr.medium.com/)
+- ✏️ I'm a technical writer in **[Medium.com](https://robertosalazarr.medium.com/)**
 
 - 📫 You can reach me at **rsalaza4@binghamton.edu**
 
@@ -19,4 +19,5 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> 
   <a href="https://posit.co/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="R Studio" width="40" height="40"/> </a> 
+   <a href="https://www.minitab.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg" alt="Minitab" width="40" height="40"/> </a> 
 </p>
