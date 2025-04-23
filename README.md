@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roberto Salazar</h1>
 <h3 align="center">I am an Industrial and Systems Engineer with a passion for coding.</h3>
 
-- :page_facing_up: I am a Co-Founder at Resume Up **[resumeup.io](https://www.resumeup.io/)**
-
 - 👨🏻‍💻 I work as a Simulation Consultant at **[simwell.io](https://www.simwell.io/en/)**
 
 - 🔍 I'm interested in **Data Science, Machine Learning, Artificial Intelligence, Operations Research**
